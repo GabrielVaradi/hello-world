@@ -1,2 +1,2 @@
-hello, potato
+Hello potato
 kappa
